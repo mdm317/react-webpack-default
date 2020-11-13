@@ -1,3 +1,5 @@
+/* eslint-disable */ //eslint 적용안함
+
 module.exports={
     presets:[
         ["@babel/preset-env",{
